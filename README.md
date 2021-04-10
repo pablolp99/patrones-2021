@@ -1,2 +1,3 @@
-# patrones-2021
-Trabajos practicos y ejemplos de la materia Reconocimiento de Patrones - 1C 2021 FCEN UBA
+# Reconocimiento de Patrones
+## FCEN - UBA - 1er Cuatrimestre de 2021
+## Profesor: Dr. Julio C. Jacobo Berlles
