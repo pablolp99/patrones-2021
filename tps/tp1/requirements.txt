@@ -1,0 +1,17 @@
+# Sourced from: https://github.com/ageron/handson-ml2
+
+##### Core scientific packages
+jupyter==1.0.0
+jupyterlab
+matplotlib==3.3.4
+notebook>=5.3
+numpy==1.19.5
+pandas==1.2.2
+scipy==1.6.0
+
+##### Machine Learning packages
+scikit-learn==0.24.1
+
+# Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
+tqdm==4.56.1
+ipywidgets==7.6.3
