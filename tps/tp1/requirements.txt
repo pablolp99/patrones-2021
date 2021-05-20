@@ -4,6 +4,7 @@
 jupyter==1.0.0
 jupyterlab
 matplotlib==3.3.4
+seaborn
 notebook>=5.3
 numpy==1.19.5
 pandas==1.2.2
